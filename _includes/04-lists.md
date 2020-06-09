@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Math major
+* Love computer science
+  * Knows C++
+  * Python
+  * Learning R
+* Love travelling
